@@ -2,7 +2,7 @@
 ```python
 #Type your number, it should be smaller than 500.
 Your_Number = int(input())
-#Here if the chosen number is less than 500 then this code is run.
+#Here if the chosen number is less than 500 then this code runs.
 if Your_Number <= 500:
     print("Numbers after your chosen number are:")
     '''Since, I want to start the count after the given number,
